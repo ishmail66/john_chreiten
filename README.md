@@ -1,7 +1,7 @@
 # john_chreiten
 Recreating John Chreiten's Website
 
-## Recreated a given website using all the technologies I have learnt so far
+# Recreated a given website using all the technologies I have learnt so far
 inlctures and through self-learning.
 
 # Steps taken;
@@ -18,3 +18,4 @@ inlctures and through self-learning.
 - HTML
 -Javascript
 
+- Link to live website: https://ishmail66.github.io/john_chreiten/index.html
