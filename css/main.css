@@ -18,7 +18,7 @@ body {
     font-family: 'Vollkorn', sans-serif;
     border-top: 13px solid #3a3a3a;
     margin: 0;
-    background-color: #0a0a0a;
+    background-color: #101a24;
     color: rgb(214, 214, 214);
 }
 
@@ -57,7 +57,7 @@ header p {
 }
 
 header hr {
-    background-color: #3a3a3a00;
+    background-color: #101a24;
     height: 4px;
     border-top: none;
     border-bottom: 3px double #6f6f6f;
@@ -208,13 +208,13 @@ Grids
     transition: opacity 400ms ease-in-out;
 }
 
-.grid-blurb {
+.grid-blur {
     height: fit-content;
     display: block;
     margin-bottom: 25px
 }
 
-.grid-blurb span {
+.grid-blur span {
     padding-top: 3px;
     display: block;
     font-family: 'Helvetica';
@@ -270,14 +270,6 @@ Grids
 }
 
 
-
-
-
-/* 
-==============
-MEDIA QUERIES
-==============
-*/
 
 /* Responsiveness for Laptop Screens */
 
@@ -342,7 +334,7 @@ MEDIA QUERIES
 
 /* Responsiveness for Mobile Screens */
 
-@media (max-width: 480px) {
+@media (max-width: 380px) {
 
     .grid-container-photo .grid-item:nth-child(3) {
         grid-column: span 1;
